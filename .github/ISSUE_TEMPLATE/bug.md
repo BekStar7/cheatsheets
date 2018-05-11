@@ -2,7 +2,7 @@
 name: Bug issue
 about: Bug report
 label: bug
-&labels=foo,bar
+&labels=bug
 
 ---
 

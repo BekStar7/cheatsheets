@@ -1,5 +1,5 @@
 ---
-name: Issues template
+name: Issues template1
 about: Issues template
 ---
 

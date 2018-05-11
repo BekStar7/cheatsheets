@@ -1,8 +1,7 @@
 ---
 name: Bug issue
 about: Bug report
-label: bug
-&labels=bug
+labels: Bug
 
 ---
 

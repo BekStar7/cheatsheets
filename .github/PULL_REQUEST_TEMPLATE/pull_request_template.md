@@ -1,8 +1,3 @@
----
-name: PR template
-about: Pull request template
----
-
 ## Исходные данные
 
 <!-- #номер_тикета -->

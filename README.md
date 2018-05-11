@@ -1,4 +1,3 @@
 # cheatsheets
-oh shheitt
 22222
-4444
+4444222

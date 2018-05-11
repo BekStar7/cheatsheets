@@ -1,7 +1,7 @@
 ---
 name: Bug issue
 about: Bug report
-labels: bug
+label: bug
 ---
 
 ## Исходные данные

@@ -1,6 +1,6 @@
 ---
-name: Issues template2
-about: Issues template
+name: Issue template
+about: default template
 ---
 
 ## Исходные данные
